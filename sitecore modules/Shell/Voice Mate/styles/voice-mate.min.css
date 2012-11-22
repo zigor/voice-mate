@@ -1,0 +1,6 @@
+/*!
+ * Copyright 2012, Igor Zhukovskyi 
+ * Voice Mate
+ * Released under the MIT Licenses.
+ */
+.voice-mate,.voice-mate-recoder,.scRadEditor .voice-mate,.ce-voice-mate{width:15px!important;height:20px!important;background-image:none!important;background-color:transparent!important;border:0!important;padding-right:20px;margin-left:6px;outline-width:0;-webkit-transform:scale(1.2,1.2);-moz-transform:scale(1.2,1.2);-ms-transform:scale(1.2,1.2);transform:scale(1.2,1.2)}.ce-voice-mate{float:right;display:block;margin-top:-22px;padding-right:0;-webkit-transform:scale(.8,.8);-moz-transform:scale(.8,.8);-ms-transform:scale(.8,.8);transform:scale(.8,.8)}
